@@ -1,0 +1,30 @@
+{
+  "player": {
+    "name": "Hero",
+    "level": 10,
+    "health": 100,
+    "maxHealth": 100,
+    "mana": 50,
+    "maxMana": 50,
+    "experience": 5000,
+    "nextLevelExperience": 10000,
+    "inventory": {
+      "gold": 100,
+      "items": [
+        {
+          "name": "Health Potion",
+          "quantity": 3
+        },
+        {
+          "name": "Mana Potion",
+          "quantity": 2
+        }
+      ]
+    },
+    "equipment": {
+      "weapon": "Sword of Power",
+      "armor": "Steel Plate",
+      "accessory": "Amulet of Protection"
+    }
+  }
+}
